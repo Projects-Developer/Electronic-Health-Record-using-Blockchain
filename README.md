@@ -1,4 +1,4 @@
-# Electronic-Health-Record-using-Blockchain
+# Electronic Health Record using Blockchain
 Electronic Health Record using Blockchain Code, Document And Vidoe Tutorial
 
 ![Health record](https://github.com/user-attachments/assets/8c487f7a-b6cc-4a4f-9ae2-6793bbab5357)

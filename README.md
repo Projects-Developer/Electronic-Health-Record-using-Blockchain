@@ -36,4 +36,4 @@ Keywords: Electronic Health Record (EHR), Blockchain, Decentralized Storage, Sma
 
 ### 📲 Contact (WhatsApp, Email, Call): https://www.contactvatshayan.com
 
-### 💻 Computer Science Projects: https://www.computer-science-project.in/
+### 💻 Youtube Channel: [Link](https://www.youtube.com/@computerscienceproject)
